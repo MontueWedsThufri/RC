@@ -1,0 +1,56 @@
+[
+  {
+    "id": "m1762684676457",
+    "name": "Chinmay Modi",
+    "email": "btech15022.25@bitmesra.ac.in",
+    "institute": "BIT Mesra",
+    "title": "Carpenter",
+    "background": "BIT Mesra",
+    "skills": [
+      "DSA"
+    ],
+    "interests": [
+      "AI"
+    ],
+    "bio": "",
+    "availability": "1 hr/week",
+    "rating": 0,
+    "createdAt": "2025-11-09T10:37:56.457Z"
+  },
+  {
+    "id": "m1762685937521",
+    "name": "Ritwik Jhunjhunwala",
+    "email": "rituszindagi@gmail.com",
+    "institute": "LPU",
+    "title": "assistant",
+    "background": "btech",
+    "skills": [
+      "DSA"
+    ],
+    "interests": [
+      "edtech"
+    ],
+    "bio": "i am pro",
+    "availability": "1 hr/week",
+    "rating": 0,
+    "createdAt": "2025-11-09T10:58:57.521Z"
+  },
+  {
+    "id": "m1762688515005",
+    "name": "Anmol Ratan",
+    "email": "amol69@hotmail.com",
+    "institute": "BIT Mesra",
+    "title": "Sweeper",
+    "background": "Ex google",
+    "skills": [
+      "DSA"
+    ],
+    "interests": [
+      "Jhaadu"
+    ],
+    "bio": "not good in bio",
+    "availability": "1 hr/week",
+    "rating": 0,
+    "createdAt": "2025-11-09T11:41:55.005Z"
+  }
+]

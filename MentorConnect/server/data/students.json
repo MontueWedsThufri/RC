@@ -1,0 +1,48 @@
+[
+  {
+    "id": "stu_1762684508903",
+    "name": "aayush kumar",
+    "email": "ritwik69jhunjhunwala@gmail.com",
+    "institute": "BIT Mesra",
+    "interests": [
+      "AI"
+    ],
+    "skills": [
+      "DSA"
+    ],
+    "goals": [],
+    "createdAt": "2025-11-09T10:35:08.903Z"
+  },
+  {
+    "id": "stu_1762688978995",
+    "name": "Narendra agarwala",
+    "email": "ayushkkk@gmail.com",
+    "institute": "BIT Mesra",
+    "interests": [
+      "AI"
+    ],
+    "skills": [
+      "Pie making"
+    ],
+    "goals": [
+      "5"
+    ],
+    "createdAt": "2025-11-09T11:49:38.995Z"
+  },
+  {
+    "id": "stu_1762691893000",
+    "name": "Sudhanshu Ranjan",
+    "email": "btech15022.25@bitmesra.ac.in",
+    "institute": "LPU",
+    "interests": [
+      "edtech"
+    ],
+    "skills": [
+      "chbcdmjgv"
+    ],
+    "goals": [
+      "ml"
+    ],
+    "createdAt": "2025-11-09T12:38:13.000Z"
+  }
+]

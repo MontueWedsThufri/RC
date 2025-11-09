@@ -1,0 +1,28 @@
+[
+  {
+    "id": "session_1762689710315",
+    "mentorId": "m1762684676457",
+    "studentId": "stu_1762688978995",
+    "scheduledAt": "2025-11-28T16:05:00.000Z",
+    "topic": "hiiii",
+    "duration": 60,
+    "meetingLink": "",
+    "notes": "",
+    "status": "scheduled",
+    "createdAt": "2025-11-09T12:01:50.315Z",
+    "updatedAt": "2025-11-09T12:01:50.315Z"
+  },
+  {
+    "id": "session_1762694554062",
+    "mentorId": "m1762684676457",
+    "studentId": "stu_1762688978995",
+    "scheduledAt": "2025-11-03T23:15:00.000Z",
+    "topic": "Mentorship Session",
+    "duration": 60,
+    "meetingLink": "https://ashutoshgautam.com",
+    "notes": "",
+    "status": "scheduled",
+    "createdAt": "2025-11-09T13:22:34.062Z",
+    "updatedAt": "2025-11-09T13:22:34.062Z"
+  }
+]
